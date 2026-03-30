@@ -1,6 +1,7 @@
 # K-Means
 K-Means Clustering on a Dense Network Topology
 Exploring Energy Distribution Across 600+ Interconnected Nodes
+
 What This Project Is About
 
 Networks can be messy. When you have over 600 nodes scattered across a space, each carrying its own energy level, making sense of the structure isn't something you can do just by looking at it. This project tackles that problem by applying K-Means clustering to uncover hidden groupings within a dense network topology.
